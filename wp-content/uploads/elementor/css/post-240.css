@@ -163,25 +163,27 @@
 .elementor-240 .elementor-element.elementor-element-738a4d60 .elementor-heading-title {font-size: 26px;font-weight: 600;text-transform: uppercase;}
 .elementor-240 .elementor-element.elementor-element-738a4d60 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-240 .elementor-element.elementor-element-5a437c4a {color: #fff;font-size: 22px;font-weight: 400;}
-.elementor-240 .elementor-element.elementor-element-7c4879a {color: #bfbfbf;font-size: 22px;font-weight: 400;}
+.elementor-240 .elementor-element.elementor-element-7c4879a {color: #fff;font-size: 22px;font-weight: 400;}
 .elementor-240 .elementor-element.elementor-element-7c4879a > .elementor-widget-container {margin: -18px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-240 .elementor-element.elementor-element-58c02f75 > .elementor-element-populated {color: #fff;text-align: center;}
 .elementor-240 .elementor-element.elementor-element-620cfa8b {text-align: center;}
 .elementor-240 .elementor-element.elementor-element-620cfa8b.elementor-widget-heading .elementor-heading-title {color: #000;}
 .elementor-240 .elementor-element.elementor-element-620cfa8b .elementor-heading-title {font-size: 26px;font-weight: 600;text-transform: uppercase;}
-.elementor-240 .elementor-element.elementor-element-620cfa8b > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-240 .elementor-element.elementor-element-620cfa8b > .elementor-widget-container {margin: -63px 0px 0px 0px;padding: 10px 10px 10px 10px;}
 .elementor-240 .elementor-element.elementor-element-56503491 .elementor-text-editor {text-align: center;column-gap: 0px;}
 .elementor-240 .elementor-element.elementor-element-56503491 {color: #fff;font-size: 22px;font-weight: 400;line-height: 1.8em;}
+.elementor-240 .elementor-element.elementor-element-56503491 > .elementor-widget-container {margin: 0px 0px 0px 0px;}
 .elementor-240 .elementor-element.elementor-element-3b9f9991 > .elementor-element-populated {color: #fff;}
 .elementor-240 .elementor-element.elementor-element-675a79d {text-align: center;}
 .elementor-240 .elementor-element.elementor-element-675a79d.elementor-widget-heading .elementor-heading-title {color: #000;}
 .elementor-240 .elementor-element.elementor-element-675a79d .elementor-heading-title {font-size: 26px;font-weight: 600;text-transform: uppercase;}
-.elementor-240 .elementor-element.elementor-element-675a79d > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-240 .elementor-element.elementor-element-675a79d > .elementor-widget-container {margin: -20px -20px -20px -20px;padding: 5px 5px 5px 5px;}
 .elementor-240 .elementor-element.elementor-element-43cfda9a .elementor-text-editor {text-align: center;}
 .elementor-240 .elementor-element.elementor-element-43cfda9a {color: #fff;font-size: 22px;font-weight: 400;}
+.elementor-240 .elementor-element.elementor-element-43cfda9a > .elementor-widget-container {margin: 20px 0px 0px 0px;padding: 18px 18px 18px 18px;}
 .elementor-240 .elementor-element.elementor-element-392d59f0 .elementor-text-editor {text-align: center;}
 .elementor-240 .elementor-element.elementor-element-392d59f0 {color: #fff;font-size: 22px;font-weight: 400;}
-.elementor-240 .elementor-element.elementor-element-392d59f0 > .elementor-widget-container {margin: -18px 0px 0px 0px;padding: 30px 0px 0px 0px;}
+.elementor-240 .elementor-element.elementor-element-392d59f0 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 20px 20px 20px 20px;}
 .elementor-240 .elementor-element.elementor-element-105a84f {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 50px;margin-bottom: 100px;}
 .elementor-240 .elementor-element.elementor-element-105a84f > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-240 .elementor-element.elementor-element-105a84f > .elementor-container {text-align: center;}
@@ -209,6 +211,16 @@
 	.elementor-240 .elementor-element.elementor-element-ftccoos .elementor-image-box-wrapper .elementor-image-box-img {width: 50%;}
 	.elementor-240 .elementor-element.elementor-element-4568c25 .elementor-image-box-wrapper .elementor-image-box-img {width: 80%;}
 	.elementor-240 .elementor-element.elementor-element-46977299 > .elementor-element-populated {margin: 0px 0px 0px 10px;}
+	.elementor-240 .elementor-element.elementor-element-738a4d60 .elementor-heading-title {font-size: 22px;}
+	.elementor-240 .elementor-element.elementor-element-620cfa8b .elementor-heading-title {font-size: 22px;}
+	.elementor-240 .elementor-element.elementor-element-620cfa8b > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-240 .elementor-element.elementor-element-56503491 {line-height: 2.6em;}
+	.elementor-240 .elementor-element.elementor-element-56503491 > .elementor-widget-container {margin: 30px 0px 30px 0px;}
+	.elementor-240 .elementor-element.elementor-element-675a79d {text-align: center;}
+	.elementor-240 .elementor-element.elementor-element-675a79d .elementor-heading-title {font-size: 22px;}
+	.elementor-240 .elementor-element.elementor-element-675a79d > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-240 .elementor-element.elementor-element-43cfda9a > .elementor-widget-container {margin: 0px 0px -20px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-240 .elementor-element.elementor-element-392d59f0 > .elementor-widget-container {margin: -20px 0px -30px 0px;}
 	.elementor-240 .elementor-element.elementor-element-12a689a {text-align: center;}
 	.elementor-240 .elementor-element.elementor-element-12a689a .elementor-social-icon {font-size: 60px;}
 	.elementor-240 .elementor-element.elementor-element-12a689a .elementor-social-icon:not(:last-child) {margin-right: 100px;}}
@@ -242,4 +254,4 @@
 	.elementor-240 .elementor-element.elementor-element-675a79d {text-align: center;}
 	.elementor-240 .elementor-element.elementor-element-12a689a {text-align: center;}
 	.elementor-240 .elementor-element.elementor-element-12a689a .elementor-social-icon {font-size: 66px;padding: .1em;}
-	.elementor-240 .elementor-element.elementor-element-12a689a .elementor-social-icon:not(:last-child) {margin-right: 80px;}}
+	.elementor-240 .elementor-element.elementor-element-12a689a .elementor-social-icon:not(:last-child) {margin-right: 42px;}}

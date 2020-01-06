@@ -1,5 +1,5 @@
 .editor-post-title__block .editor-post-title__input {font-size: 30px;font-size: 2rem;font-family: "Open Sans",sans-serif;font-weight: normal;}
-.editor-block-list__block {font-family: "Open Sans",sans-serif;font-size: 14px;line-height: 1.8;color: #929292;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.editor-block-list__block {font-family: "Open Sans",sans-serif;font-size: 16px;line-height: 1.8;color: #333;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 .editor-block-list__block h1, .editor-block-list__block h2, .editor-block-list__block h3, .editor-block-list__block h4, .editor-block-list__block h5, .editor-block-list__block h6 {font-weight: 600;margin: 0 0 20px;color: #333;line-height: 1.4;}
 .editor-block-list__block h1 {font-size: 23px;}
 .editor-block-list__block h2 {font-size: 20px;}
@@ -29,7 +29,7 @@
 .editor-block-list__block dl {margin: 20px;}
 .editor-block-list__block dt {font-weight: 700;}
 .editor-block-list__block dd {margin-bottom: 20px;}
-.mce-content-body a {color: #333;}
+.mce-content-body a {color: #0550f7;}
 .mce-content-body a:hover {color: #13aff0;}
 .mce-content-body a.light {color: #fff;}
 .mce-content-body a.light:hover {color: #13aff0;}

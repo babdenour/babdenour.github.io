@@ -7,7 +7,7 @@ a.bp-title-button {font-size: 12px;padding: 2px 10px;vertical-align: middle;colo
 a.bp-title-button:hover {color: #000;}
 .breadcrumbs .current a.bp-title-button {display: none;}
 #buddypress #messages_search_submit {height: 33px;}
-.buddypress #buddypress .button.unfav {background: #666;border: 1px solid #666;}
+.buddypress #buddypress .button.unfav {background: #666;border: solid 1px #666;}
 #buddypress div.activity-meta a {font-size: 12px;}
 #buddypress .loading {opacity: .5;}
 #buddypress div.activity-comments div.acomment-meta, .buddypress #buddypress div.activity-comments div.acomment-content {font-size: 100%;}
@@ -24,11 +24,9 @@ a.bp-title-button:hover {color: #000;}
 #buddypress ul.item-list li div.item-desc, #buddypress ul.item-list li div.item-title, #buddypress ul.item-list li div.item-title span, #buddypress ul.item-list li div.meta, #buddypress ul.item-list li h4 {font-size: 100%;}
 #buddypress ul#groups-list li div.item-title {font-size: 15px;line-height: 1.6em;margin-bottom: 5px;}
 #buddypress ul#groups-list li div.item-title span {font-size: 13px;}
-#buddypress .activity-list li.mini, #buddypress span.activity {font-size: 90%;}
 #buddypress ul#groups-list li div.item-desc {width: 68%;}
 #buddypress ul.item-list li {border-bottom: 1px solid #ccc;padding: 30px 0;}
 #buddypress .activity-list .activity-content .activity-header a:first-child, #buddypress .activity-list .activity-content .comment-header a:first-child {font-weight: 700;}
-#buddypress .button.accept:before, #buddypress .friendship-button.add:before, #buddypress div#item-header div#item-meta #latest-update:before {font-family: FontAwesome;font-weight: 400;display: inline-block;font-style: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 #buddypress .acomment-content, #buddypress .activity-list .activity-content .activity-inner, #buddypress .activity-list .activity-content blockquote {color: #333;}
 #buddypress div#item-header img.avatar {margin-left: 15px;}
 .buddypress.widget .avatar {margin-left: 0;}
@@ -41,8 +39,9 @@ a.bp-title-button:hover {color: #000;}
 #buddypress div.activity-comments div.acomment-content {font-size: 90%;margin: 5px 0 0 50px;}
 #buddypress .acomment-options {margin: 5px 0 5px 50px;}
 #buddypress div.activity-comments form div.ac-reply-content {margin-left: 70px;}
-#buddypress div.activity-comments form .ac-textarea {background: #fcfcfc;border: 1px solid #ccc;border-radius: 3px;color: #c6c6c6;}
+#buddypress div.activity-comments form .ac-textarea {background: #fcfcfc;border: solid 1px #ccc;border-radius: 3px;color: #c6c6c6;}
 #buddypress .activity-list .activity-content {margin: 0 0 0 80px;}
+#buddypress .activity-list li.mini {font-size: 90%;}
 #buddypress div.item-list-tabs ul li#activity-filter-select label, #buddypress div.item-list-tabs ul li#members-order-select label {display: inline-block;margin-right: 6px;margin-bottom: 0;}
 #buddypress div.item-list-tabs ul li.last select {width: auto;}
 #buddypress div.activity-meta {opacity: .75;transition: all .2s ease;}
@@ -51,14 +50,15 @@ a.bp-title-button:hover {color: #000;}
 .blog-heading div.dir-search {margin-top: -30px;margin-bottom: -5px;}
 .blog-heading div.dir-search input, .blog-heading div.dir-search label {margin-bottom: 0;margin-top: 0;}
 @media only screen and (max-width:480px) {#buddypress div.dir-search input[type=text] {width: inherit;}}
-#buddypress .button.accept:before, #buddypress .friendship-button.add:before {content: "";line-height: 1;margin-right: 5px;font-size: 14px;}
+#buddypress span.activity {font-size: 90%;}
+#buddypress .button.accept:before, #buddypress .friendship-button.add:before {content: "";display: inline-block;font-family: FontAwesome;font-style: normal;font-weight: 400;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;margin-right: 5px;font-size: 14px;}
 #buddypress .button.accept:before {content: "";}
 #buddypress div#item-header div#item-meta {font-size: 100%;}
 #buddypress div#item-header div#item-meta #item-buttons div.generic-button a {padding: 2px 8px;font-size: 90%;}
 #buddypress div#item-header div#item-meta #latest-update {color: #222;margin-bottom: 10px;background: #eee;border-radius: 4px;padding: 5px 15px;display: inline-block;position: relative;z-index: 1;}
 #buddypress div#item-header div#item-meta #latest-update>a {font-size: 80%;}
-#buddypress div#item-header div#item-meta #latest-update:before {content: "";line-height: 1;margin-right: 3px;font-size: 32px;color: #eee;position: absolute;left: 6px;bottom: -15px;z-index: -1;}
-.item-list-tabs:not(#subnav) {border: 1px solid #ccc;border-radius: 3px;padding: 0;}
+#buddypress div#item-header div#item-meta #latest-update:before {content: "";display: inline-block;font-family: FontAwesome;font-style: normal;font-weight: 400;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;margin-right: 3px;font-size: 32px;color: #eee;position: absolute;left: 6px;bottom: -15px;z-index: -1;}
+.item-list-tabs:not(#subnav) {border: solid 1px #ccc;border-radius: 3px;padding: 0;}
 #buddypress div.item-list-tabs ul li a span {padding: 2px 6px;}
 #buddypress div.item-list-tabs ul li a {color: #888;opacity: 1;}
 @media (max-width:991px) {#buddypress div.item-list-tabs:not(#subnav) ul li {width: 33.33333%;}}

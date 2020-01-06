@@ -23,8 +23,8 @@
 .llms-course-navigation {margin-top: 20px;padding-top: 20px;border-top: 1px solid #f1f1f1;}
 .llms-course-navigation .llms-pre-text {color: #13aff0;font-weight: 300;}
 .llms-course-navigation .llms-prev-lesson .llms-pre-text::before, .llms-course-navigation .llms-next-lesson .llms-pre-text::after {display: inline-block;font: normal normal 900 14px/1 "Font Awesome 5 free";font-size: inherit;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
-.llms-course-navigation .llms-prev-lesson .llms-pre-text::before {content: "";margin-right: 10px;}
-.llms-course-navigation .llms-next-lesson .llms-pre-text::after {content: "";margin-left: 10px;}
+.llms-course-navigation .llms-prev-lesson .llms-pre-text::before {content: "";margin-right: 10px;}
+.llms-course-navigation .llms-next-lesson .llms-pre-text::after {content: "";margin-left: 10px;}
 .llms-lesson-button-wrapper {color: #191818;font-size: 18px;font-weight: 700;}
 #llms_mark_complete::before, .llms-lesson-button-wrapper::before {display: inline-block;font: normal normal 900 14px/1 "Font Awesome 5 free";font-size: inherit;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 #llms_mark_complete::before {content: "";margin-right: 10px;}
